@@ -62,9 +62,10 @@
                         <configuration>
                             <rules>
                                 <rule>
+                                    <element>PACKAGE</element>
                                     <limits>
                                         <limit>
-                                            <counter>LINE</counter>
+                                            <counter>BRUNCH</counter>
                                             <value>COVEREDRATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
